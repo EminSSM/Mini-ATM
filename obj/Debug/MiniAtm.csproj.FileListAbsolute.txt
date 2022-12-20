@@ -1,0 +1,16 @@
+C:\Users\casper\source\repos\RecapDemos2\MiniAtm\bin\Debug\MiniAtm.exe.config
+C:\Users\casper\source\repos\RecapDemos2\MiniAtm\bin\Debug\MiniAtm.exe
+C:\Users\casper\source\repos\RecapDemos2\MiniAtm\bin\Debug\MiniAtm.pdb
+C:\Users\casper\source\repos\RecapDemos2\MiniAtm\obj\Debug\MiniAtm.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\RecapDemos2\MiniAtm\obj\Debug\MiniAtm.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\source\repos\RecapDemos2\MiniAtm\obj\Debug\MiniAtm.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\RecapDemos2\MiniAtm\obj\Debug\MiniAtm.exe
+C:\Users\casper\source\repos\RecapDemos2\MiniAtm\obj\Debug\MiniAtm.pdb
+C:\C#\repos\RecapDemos2\MiniAtm\bin\Debug\MiniAtm.exe.config
+C:\C#\repos\RecapDemos2\MiniAtm\bin\Debug\MiniAtm.exe
+C:\C#\repos\RecapDemos2\MiniAtm\bin\Debug\MiniAtm.pdb
+C:\C#\repos\RecapDemos2\MiniAtm\obj\Debug\MiniAtm.csproj.AssemblyReference.cache
+C:\C#\repos\RecapDemos2\MiniAtm\obj\Debug\MiniAtm.csproj.SuggestedBindingRedirects.cache
+C:\C#\repos\RecapDemos2\MiniAtm\obj\Debug\MiniAtm.csproj.CoreCompileInputs.cache
+C:\C#\repos\RecapDemos2\MiniAtm\obj\Debug\MiniAtm.exe
+C:\C#\repos\RecapDemos2\MiniAtm\obj\Debug\MiniAtm.pdb
